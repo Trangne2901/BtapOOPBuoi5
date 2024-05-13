@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Buoi5.iml" filepath="$PROJECT_DIR$/.idea/Buoi5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle_demo/Rectangle_demo.iml" filepath="$PROJECT_DIR$/Rectangle_demo/Rectangle_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Square_demo/Square_demo.iml" filepath="$PROJECT_DIR$/Square_demo/Square_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temoerature/Temoerature.iml" filepath="$PROJECT_DIR$/Temoerature/Temoerature.iml" />
+    </modules>
+  </component>
+</project>
